@@ -94,16 +94,16 @@ var mapdata = {
             url: "images/bluetooth_logo.png",
             x: 50,
             y: 50,
-            w: width,
-            h: height
+            w: 32,
+            h: 32
         }]
     }, {
         id: uuid(),
         name: "Floor 2",
         image: {
             url: "images/sample_floorplan.png",
-            x: 0,
-            y: 0,
+            x: width,
+            y: height,
             w: width,
             h: height
         },
@@ -114,8 +114,8 @@ var mapdata = {
             url: "images/bluetooth_logo.png",
             x: 50,
             y: 50,
-            w: width,
-            h: height
+            w: 32,
+            h: 32
         }]
     }]
 };
