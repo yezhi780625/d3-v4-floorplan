@@ -14,7 +14,7 @@
   },
   "homepage": "",
   "dependencies": {
-    "d3": "4.13.0"
+    "d3": "^5.15.0"
   },
   "devDependencies": {
     "browserify": "^10.2.6",
